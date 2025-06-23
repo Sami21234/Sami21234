@@ -1,6 +1,6 @@
 <h1 align="center">I'm Mohd Sami</h1>
 <h3 align="center">Frontend developer and Aspiring Aiml Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/0QhkDFMt/animated-hello-coder-large-text.gif"
+<img align="right" alt="Coding" height="300" width="400" src="https://i.postimg.cc/0QhkDFMt/animated-hello-coder-large-text.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami21234&label=Profile%20views&color=0e75b6&style=flat" alt="sami21234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sami21234" alt="sami21234" /></a> </p>

@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working as **an Intern at Snestron Systems** as a FullStack developer
+  I’m currently working as **an Intern at Snestron Systems** as a FullStack developer
  
- 🌱 I’m currently learning **React**
+   I’m currently learning **React**
 
-💬 Ask me about **Django, javascript... or anything [here](https://github.com/Sami21234/Sami21234/issues)**
+  Ask me about **Django, javascript... or anything [here](https://github.com/Sami21234/Sami21234/issues)**
 
-⚡ Fun fact - **🐛 The first working version had 42 bugs (yes, I counted).**
+  Fun fact - **🐛 The first working version had 42 bugs (yes, I counted).**
 
  </div>
  

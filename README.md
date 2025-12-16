@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sami21234.Sami21234" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=green&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Mohd+Sami!;&color=00D000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=green&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Mohd+Sami!;" />
 </h1>
 
 <h3 align="center">A passionate Frontend developer and Aspiring FullStack developer from India</h3>

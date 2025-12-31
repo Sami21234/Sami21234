@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=green&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Mohd+Sami!;" />
 </h1>
 
-<h3 align="center">A passionate Frontend developer and Aspiring FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer and Aspiring AIML Engineer from India</h3>
 
 <br/>
 
 <div align="center">
  
-  I’m currently working as **an Intern at Snestron Systems** as a FullStack developer
+  I’m currently working as **an Intern at Outfyld** as a Frontend developer
  
-   I’m currently learning **React**
+   I’m currently learning **Python Libraries**
 
   Ask me about **Django, javascript... or anything [here](https://github.com/Sami21234/Sami21234/issues)**
 

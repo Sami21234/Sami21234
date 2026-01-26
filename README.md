@@ -14,7 +14,7 @@
  
    I’m currently learning **Data Science and Analysis**
 
-  Ask me about **Django, javascript... or anything [here](https://github.com/Sami21234/Sami21234/issues)**
+  Ask me about **Data Preprocessing, EDA... or anything [here](https://github.com/Sami21234/Sami21234/issues)**
 
   Fun fact - **🐛 The first working version had 42 bugs (yes, I counted).**
 

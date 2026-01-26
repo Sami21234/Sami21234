@@ -12,7 +12,7 @@
  
   I’m currently working as **an Intern at Outfyld** as a Frontend developer
  
-   I’m currently learning **Python Libraries**
+   I’m currently learning **Data Science and Analysis**
 
   Ask me about **Django, javascript... or anything [here](https://github.com/Sami21234/Sami21234/issues)**
 

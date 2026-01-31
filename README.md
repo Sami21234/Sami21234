@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  I’m currently working as **an Intern at Outfyld** as a Frontend developer
+  I’m currently working/studying on **AI Projects**
  
    I’m currently learning **Data Science and Analysis**
 

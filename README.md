@@ -93,7 +93,7 @@ When I'm not coding, you'll find me playing chess ♟️.
 
 ## 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/View_My_Work-0077B3?style=flat&logo=vercel&logoColor=white)](https://portfolio-adeeliqbal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_My_Work-0077B3?style=flat&logo=vercel&logoColor=white)](https://portfolio-.vercel.app/)
 
 </div>
 
